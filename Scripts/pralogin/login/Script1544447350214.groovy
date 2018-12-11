@@ -15,5 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://staging.karir.com')
 
+WebUI.delay(10)
+
 WebUI.closeBrowser()
 
