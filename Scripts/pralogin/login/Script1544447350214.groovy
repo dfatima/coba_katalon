@@ -15,5 +15,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://staging.karir.com')
 
-WebUI.acceptAlert()
+WebUI.closeBrowser()
 
